@@ -2,6 +2,8 @@
 
 This is basically an easy way to install https://github.com/Fornoth/spotify-connect-web on your Retropie and make it available as a console on the main menu.
 
+<img src="https://user-images.githubusercontent.com/8658960/35445914-f44aa9bc-0291-11e8-960a-ba479c33cd50.jpg?s=200" width="300" height="300">
+
 ### What it does
 
 * Stream Spotify to your Retropie while gaming / on the menu / on fullscreen mode with the cover art of what you are listening
@@ -27,7 +29,3 @@ After setting credentials you can Launch your webserver. If the web server is ru
 
 To go into Fullscreen Mode, the webserver needs to be running first.
 To leave Fullscreen Mode, just stop streaming into Retropie
-
-### Looks like this
-
-![](https://user-images.githubusercontent.com/8658960/35445914-f44aa9bc-0291-11e8-960a-ba479c33cd50.jpg)
