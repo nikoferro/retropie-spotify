@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spotify Connect</title>
+  <link href="{{url_for('static', filename='css/font-awesome.min.css')}}" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,900" rel="stylesheet">
+  <link href="{{url_for('static', filename='css/style.css')}}" rel="stylesheet">
+  </head>
+<body>
+  <div id="blur">
+
+  </div>
+  <div id="content">    
+      <div style="background-image: url('{{url_for('static', filename='img/spotify.png')}}')"id="album-cover" src="" alt="Album cover"></div>
+      <div class="vol-container">
+          <i class="fa fa-volume-off" aria-hidden="true"></i>
+          <i class="fa fa-volume-down" aria-hidden="true"></i>
+          <i class="fa fa-volume-up" aria-hidden="true"></i>
+      <div id="vol">
+        <div class="active"></div>
+      </div>
+      </div>
+      <div class="info">
+        <div class="track-info">
+          <p id="trackInfo" data-music-info data-id=""></p>
+          <p id="artistInfo" data-music-info data-id=""></p>
+        </div>
+      </div>
+  </div>
+
+  <script src="{{url_for('static', filename='js/jquery-3.2.1.min.js')}}"></script>
+  <script src="{{url_for('static', filename='js/main.js')}}"></script>
+</body>
+</html>
