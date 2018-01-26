@@ -13,9 +13,9 @@ This is basically an easy way to install https://github.com/Fornoth/spotify-conn
 
 ## Install
 
-1 - `ssh` into your Retropie and `git clone https://github.com/nikoferro/retropie-spotify.git`. Instructions on how to connect through ssh explained here https://github.com/RetroPie/RetroPie-Setup/wiki/SSH)
-2 - Put your `spotify_appkey.key` into the `key` folder (located inside of what you just downloaded)
-3 - Inside the downloaded folder `sh install.sh`
+- `ssh` into your Retropie and `git clone https://github.com/nikoferro/retropie-spotify.git`. Instructions on how to connect through ssh explained here https://github.com/RetroPie/RetroPie-Setup/wiki/SSH).
+- Put your `spotify_appkey.key` into the `key` folder (located inside of what you just downloaded).
+- Inside the downloaded folder `sh install.sh`.
 
 After the installation is finished, just reboot your Retropie and everything should be ready.
 
