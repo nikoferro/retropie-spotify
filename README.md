@@ -6,8 +6,6 @@ This is basically an easy way to install https://github.com/Fornoth/spotify-conn
 
 ### What it does
 
-<img align="right" style="display: inline" src="https://user-images.githubusercontent.com/8658960/35447446-85ddce6e-0296-11e8-9c74-3ed590ceb6aa.jpg" width="150" height="150">
-
 * Stream Spotify to your Retropie while gaming / on the menu / on fullscreen mode with the cover art of what you are listening
 
 ### Limitations
