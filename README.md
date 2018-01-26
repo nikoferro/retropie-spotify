@@ -2,9 +2,11 @@
 
 This is basically an easy way to install https://github.com/Fornoth/spotify-connect-web on your Retropie and make it available as a console on the main menu.
 
-<img src="https://user-images.githubusercontent.com/8658960/35445914-f44aa9bc-0291-11e8-960a-ba479c33cd50.jpg?s=200" width="300" height="300">
+
 
 ### What it does
+
+<img align="right" style="display: inline" src="https://user-images.githubusercontent.com/8658960/35447446-85ddce6e-0296-11e8-9c74-3ed590ceb6aa.jpg" width="150" height="150">
 
 * Stream Spotify to your Retropie while gaming / on the menu / on fullscreen mode with the cover art of what you are listening
 
@@ -14,6 +16,8 @@ This is basically an easy way to install https://github.com/Fornoth/spotify-conn
 * You will need `spotify_appkey.key` (can be obtained from https://developer.spotify.com/my-account/keys )
 
 ## Install
+
+<img align="right" style="display: inline" src="https://user-images.githubusercontent.com/8658960/35445914-f44aa9bc-0291-11e8-960a-ba479c33cd50.jpg" width="150" height="150">
 
 - `ssh` into your Retropie and `git clone https://github.com/nikoferro/retropie-spotify.git`. Instructions on how to connect through ssh explained here https://github.com/RetroPie/RetroPie-Setup/wiki/SSH).
 - Put your `spotify_appkey.key` into the `key` folder (located inside of what you just downloaded).
