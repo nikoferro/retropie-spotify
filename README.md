@@ -1,4 +1,6 @@
-# 2021 Update: Archiving this, since Spotify api has changed a lot since this was published, and it no longer works with a .key file
+### 2021 Update: Archiving this, since Spotify api has changed a lot since this was published, and it no longer works with a .key file
+
+If anyone wants to keep maintaining this project and upgrade it to use the current Spotify api please reach out and i will unarchive it, but for now, i will keep it closed
 
 ----
 
