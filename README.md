@@ -1,3 +1,8 @@
+# 2021 Update: Archiving this, since Spotify api has changed a lot since this was published, and it no longer works with a .key file
+
+----
+
+
 # Spotify as a "console" for Retropie
 
 This is basically an easy way to install https://github.com/Fornoth/spotify-connect-web on your Retropie and make it available as a console on the main menu.
